@@ -1,12 +1,18 @@
 # Anastasiia Makhniaieva
 
+## Here's the picture of my dog Luna
+![Image](luna_and_show.png)
+
+[My LinkedIn](https://www.linkedin.com/in/makhniaieva/)
+
+# The Core Markdown Constructs 
+
 # The largest heading
+
 ## The second largest heading
+
 ###### The smallest heading
 
-
-###### Here's the picture of my dog Luna
-![Image](luna_and_show.png)
 
 **This is bold text**
 
@@ -33,7 +39,8 @@ git commit
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+[My LinkedIn](https://www.linkedin.com/in/makhniaieva/)
 
 - George Washington
 - John Adams
