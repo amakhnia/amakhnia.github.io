@@ -4,7 +4,8 @@
 
 
 ###### Here's the picture of my dog Luna
-![Image](luna_and_snow.png)
+![Image](https://ibb.co/Qd4H0XJ)
+
 **This is bold text**
 *This text is italicized*
 ~~This was mistaken text~~
