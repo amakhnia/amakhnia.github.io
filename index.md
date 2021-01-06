@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# The largest heading
+## The second largest heading
+###### The smallest heading
 
-You can use the [editor on GitHub](https://github.com/amakhnia/amakhnia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**This is bold text**
+*This text is italicized*
+~~This was mistaken text~~
+**This text is _extremely_ important**
+***All this text is important***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the words of Abraham Lincoln:
 
-### Markdown
+> Pardon my French
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Use `git status` to list all new or modified files that haven't yet been committed.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Some basic Git commands are:
+```
+git status
+git add
+git commit
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This site was built using [GitHub Pages](https://pages.github.com/).
 
-### Jekyll Themes
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amakhnia/amakhnia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- George Washington
+- John Adams
+- Thomas Jefferson
 
-### Support or Contact
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. First list item
+   - First nested list item
+    - Second nested list item
+100. First list item
+     - First nested list item
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+- [ ] \(Optional) Open a followup issue
+
+
+     
+     
