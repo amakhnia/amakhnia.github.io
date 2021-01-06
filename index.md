@@ -2,6 +2,9 @@
 ## The second largest heading
 ###### The smallest heading
 
+
+###### Here's the picture of my dog Luna
+![image](luna_and_snow.png)
 **This is bold text**
 *This text is italicized*
 ~~This was mistaken text~~
